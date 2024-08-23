@@ -1,5 +1,7 @@
 # Hackintosh, Asus TUF Z490 PLUS, Intel Core i5-11600KF, AMD Radeon RX 5700 XT, 32Gb DDR4
 
+![Overview](https://github.com/user-attachments/assets/2c3197de-42ef-4dc3-8bbe-090a829d0884)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.6.1)
